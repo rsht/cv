@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Roman Shtemberko",
+    "label": "Software Engineer",
+    "picture": "https://dl.dropboxusercontent.com/u/59429800/resume_pic.jpg",
+    "email": "shtemberko@gmail.com",
+    "phone": "+38 (093) 578-7071",
+    "summary": "Enthusiastic engineer with comprehensive understanding of user space development process for desktop, mobile and embedded OSs. Self-motivated autodidact. Passionate about AI field (machine learning in particular) and art. My dream job would be a composition of those two.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Kyiv",
+      "countryCode": "UA",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "Roman Shtemberko",
+        "url": "https://www.facebook.com/roman.shtemberko"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Roman Shtemberko",
+        "url": "https://ua.linkedin.com/in/roman-shtemberko-58902b92"
+      },
+      {
+        "network": "GitHub",
+        "username": "rsht",
+        "url": "https://github.com/rsht"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Milo Solutions",
+      "position": "Software Engineer (Junior)",
+      "website": "https://milosolutions.com",
+      "startDate": "2014-07-01",
+      "endDate": "2015-10-20",
+      "summary": "Developing cross-platform applications with C++ and Qt framework. Participating in an open-source community as a representative of the company.",
+      "highlights": [
+        "Windows, Linux, Mac OS, Android, iOS development with Qt",
+        "Remote work",
+        "Open-source participation",
+        "Estimations for the projects, client oriented work"
+      ]
+    },
+    {
+      "company": "GlobalLogic",
+      "position": "Software Engineer",
+      "website": "http://globallogic.com.ua/",
+      "startDate": "2015-11-01",
+      "summary": "Linux embedded-oriented C++ and Qt development. Researches team.",
+      "highlights": [
+        "Embedded systems user space development",
+        "Researches"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kiev National University of Construction and Architecture",
+      "area": "Automation and Information Technologies",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-07-01",
+      "gpa": "",
+      "courses": [
+          "Stanford Online Databases Course",
+          "Machine Learning by Stanford University"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": [
+        "OOP",
+        "Machine Learning",
+        "Software design patterns",
+        "Algorithms/Data Structures",
+        "Functional programming",
+        "Estimations"
+      ]
+    },
+    {
+        "name": "Programming Languages",
+        "keywords": [
+            "C++",
+            "C",
+            "SQL",
+            "Python",
+            "Octave/Matlab"
+          ]
+    },
+    {
+        "name": "Frameworks",
+        "keywords": [
+            "Qt",
+            "Tensorflow",
+            "Django"
+        ]
+    },
+    {
+        "name": "Tools",
+        "keywords": [
+            "git",
+            "vim",
+            "QtCreator",
+            "gdb",
+            "tmux",
+            "..."
+        ]
+    },
+    {
+      "name": "OSs",
+      "level": "",
+      "keywords": [
+        "[Embedded] Linux",
+        "Mac OS",
+        "iOS",
+        "Android",
+        "Windows"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Upper Intermediate"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Music",
+        "Piano"
+      ]
+    },
+    {
+      "name": "Bicycle",
+      "keywords": []
+    },
+    {
+      "name": "Traveling",
+      "keywords": []
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
