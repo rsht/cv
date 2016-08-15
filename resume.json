@@ -111,6 +111,7 @@
         "keywords": [
             "git",
             "vim",
+            "cmake",
             "QtCreator",
             "gdb",
             "tmux",
