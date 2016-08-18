@@ -81,9 +81,9 @@
       "level": "",
       "keywords": [
         "OOP",
-        "Machine Learning",
-        "Software design patterns",
         "Algorithms/Data Structures",
+        "Software design patterns",
+        "Machine Learning",
         "Functional programming",
         "Estimations"
       ]
@@ -101,7 +101,7 @@
     {
         "name": "Frameworks",
         "keywords": [
-            "Qt",
+            "Qt (proficient)",
             "Tensorflow",
             "Django"
         ]
