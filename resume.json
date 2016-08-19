@@ -28,6 +28,11 @@
         "network": "GitHub",
         "username": "rsht",
         "url": "https://github.com/rsht"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "rsht",
+        "url": "https://stackoverflow.com/users/3088216/rsht"
       }
     ]
   },
@@ -77,34 +82,35 @@
   "publications": [],
   "skills": [
     {
-      "name": "Software Development",
-      "level": "",
-      "keywords": [
-        "OOP",
-        "Algorithms/Data Structures",
-        "Software design patterns",
-        "Machine Learning",
-        "Functional programming",
-        "Estimations"
-      ]
-    },
-    {
         "name": "Programming Languages",
         "keywords": [
-            "C++",
-            "C",
-            "SQL",
-            "Python",
-            "Octave/Matlab"
+            "C++ (Advanced)",
+            "QML (Advanced)",
+            "C (Fluent, but not much so for low-level dev)",
+            "SQL (Relational algebra, SQLite, MySQL - Intermediate+)",
+            "Python (Intermediate)",
+            "Octave/Matlab (Intermediate)"
           ]
     },
     {
         "name": "Frameworks",
         "keywords": [
-            "Qt (proficient)",
-            "Tensorflow",
-            "Django"
+            "Qt (Proficient)",
+            "Tensorflow (Basics)",
+            "Django (Basics)"
         ]
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": [
+        "OOP",
+        "Software design patterns",
+        "Algorithms/Data Structures",
+        "Machine Learning",
+        "Functional programming",
+        "Estimations"
+      ]
     },
     {
         "name": "Tools",
@@ -148,7 +154,7 @@
     {
       "name": "Music",
       "keywords": [
-        "Music",
+        "Guitar",
         "Piano"
       ]
     },
